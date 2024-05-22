@@ -13,6 +13,7 @@ import { useCompletion } from "ai/react";
 import { Toaster, toast } from "react-hot-toast";
 import { LlamaTemplate, Llama3Template } from "../src/prompt_template";
 import { Turnstile } from "@marsidev/react-turnstile";
+import "../src/polyfill"
 
 import { countTokens } from "./src/tokenizer.js";
 
