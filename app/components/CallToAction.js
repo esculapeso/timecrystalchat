@@ -6,7 +6,7 @@ export default function CallToAction() {
     <div
       className="guide-footer-cta sm:flex items-center bg-pink-600 justify-between p-12 space-y-4"
       style={{
-        background: `url(${CTAGooBG.src}) no-repeat center center`,
+        background: `url('https://timecrystalesa.com/wp-content/uploads/2024/03/cropped-DALL%C2%B7E-2024-03-16-22.44.51-Illustrate-the-concept-of-human-consciousness-extending-beyond-the-physical-realm-into-a-higher-fourth-dimension-of-space-as-discussed-in-James-E.-B.webp') no-repeat center center`,
         backgroundSize: "cover",
         position: "relative",
         zIndex: 1,
@@ -14,11 +14,10 @@ export default function CallToAction() {
     >
       <div>
         <h1 className="text-2xl sm:text-3xl text-white font-bold">
-          Run Meta Llama 3 with an API
+          Time Crystal assistant powered by Llama 3
         </h1>
         <p className="text-white mx-auto mt-2 sm:mt-0">
-          Replicate lets you run language models in the cloud with one line of
-          code.
+          Generate your personal autogenic training with Llama 3 powered Time Crystal Assistant
         </p>
       </div>
 
